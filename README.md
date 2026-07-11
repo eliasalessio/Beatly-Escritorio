@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/img/banner.jpg" width="100%">
 
-# Beatly
+# Beatly Escritorio
 
 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
 
@@ -18,19 +18,21 @@ Libera todo el poder de la música: reproduce, descubre y disfruta sin límites,
 
 <center>
 
-Búsqueda de canciones online con sugerencias <br/>
-Soporte para escuchar sin conexión <br/>
-Importa y exporta tus datos y no los pierdas nunca <br/>
-Añade listas de reproducción personalizadas con enlace <br/>
-Experiencia de sonido optimizada <br/>
-Soporte de SponsorBlock <br/>
-Soporte de letras <br/>
-Sin anuncios <br/>
-Sin suscripciones <br/>
-Actualizador integrado <br/>
-Ecualizador incorporado con preajustes <br/>
-Multi idioma <br/>
-Interfaz de usuario de materiales, colores de acento y colores dinámicos (Android 12+) <br/>
+Busca canciones online con sugerencias<br>
+Escucha sin conexión descargando tu música<br>
+Importa y exporta tus datos sin perder nunca nada<br>
+Añade listas de reproducción personalizadas con enlace<br>
+Experiencia de sonido optimizada<br>
+Soporte de SponsorBlock<br>
+Soporte de letras<br>
+Control de volumen integrado en el reproductor<br>
+Atajo de teclado (Escape) para cerrar pantalla completa<br>
+Sin anuncios<br>
+Sin suscripciones<br>
+Actualizador incorporado<br>
+Ecualizador con preajustes<br>
+Multi idioma<br>
+Interfaz moderna, colores de acento personalizables<br>
 
 </center>
 
@@ -39,7 +41,7 @@ Interfaz de usuario de materiales, colores de acento y colores dinámicos (Andro
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/04.jpg) |
+| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/01.png) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/02.png) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/03.png) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/04.png) |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 
