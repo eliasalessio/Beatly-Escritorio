@@ -5,10 +5,10 @@
 
 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
 
-[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/stargazers)
-[![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
-[![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Escritorio/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
-[![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Escritorio?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Escritorio/stargazers)
+[![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Escritorio/fork)
+[![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Escritorio/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Escritorio/releases)
+[![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Escritorio?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Escritorio/releases)
 [![License](https://img.shields.io/github/license/eliasalessio/Beatly-Escritorio?color=D3BEAB)](LICENSE)
 
 
@@ -50,7 +50,7 @@ Interfaz moderna, colores de acento personalizables<br>
 ## Descarga
 
 
-[<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/img/get-it-on-github.png" alt="Obtener en Github" height="80">](https://github.com/eliasalessio/Beatly-Movil/releases/latest)
+[<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/img/get-it-on-github.png" alt="Obtener en Github" height="80">](https://github.com/eliasalessio/Beatly-Escritorio/releases/latest)
 
 ---
 
