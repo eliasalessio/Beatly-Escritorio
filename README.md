@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/banner.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/img/banner.jpg" width="100%">
 
 # Beatly
 
 Libera todo el poder de la música: reproduce, descubre y disfruta sin límites, todo en una sola app.
 
-[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/stargazers)
-[![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Movil?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
-[![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Movil/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
-[![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Movil?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
-[![License](https://img.shields.io/github/license/eliasalessio/Beatly-Movil?color=D3BEAB)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/stargazers)
+[![Forks](https://img.shields.io/github/forks/eliasalessio/Beatly-Escritorio?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/fork)
+[![Downloads](https://img.shields.io/github/downloads/eliasalessio/Beatly-Escritorio/total?style=flat-square&color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![GitHub release](https://img.shields.io/github/v/release/eliasalessio/Beatly-Escritorio?color=D3BEAB)](https://github.com/eliasalessio/Beatly-Movil/releases)
+[![License](https://img.shields.io/github/license/eliasalessio/Beatly-Escritorio?color=D3BEAB)](LICENSE)
 
 
 ---
@@ -39,7 +39,7 @@ Interfaz de usuario de materiales, colores de acento y colores dinámicos (Andro
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/screenshots/04.jpg) |
+| ![Screenshot 1](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/screenshots/04.jpg) |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -48,7 +48,7 @@ Interfaz de usuario de materiales, colores de acento y colores dinámicos (Andro
 ## Descarga
 
 
-[<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Movil/refs/heads/main/assets/img/get-it-on-github.png" alt="Obtener en Github" height="80">](https://github.com/eliasalessio/Beatly-Movil/releases/latest)
+[<img src="https://raw.githubusercontent.com/eliasalessio/Beatly-Escritorio/refs/heads/main/assets/img/get-it-on-github.png" alt="Obtener en Github" height="80">](https://github.com/eliasalessio/Beatly-Movil/releases/latest)
 
 ---
 
