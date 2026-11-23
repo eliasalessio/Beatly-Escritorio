@@ -65,14 +65,14 @@ Se distribuye con la esperanza de que sea de utilidad, pero SIN NINGUNA GARANTÍ
 sin siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR.
 ```
 
-Consulte la [Licencia pública general GNU](https://github.com/eliasalessio/Beatly-Movil/blob/main/LICENSE) para obtener más detalles.
+Consulte la [Licencia pública general GNU](https://github.com/eliasalessio/Beatly-Escritorio/blob/main/LICENSE) para obtener más detalles.
 
 
 ---
 
 ## Preguntas Frecuentes
 
-Puede ver las preguntas frecuentes y sus respuestas [aquí](https://github.com/eliasalessio/Beatly-Movil/discussions).
+Puede ver las preguntas frecuentes y sus respuestas [aquí](https://github.com/eliasalessio/Beatly-Escritorio/discussions).
 
 
 ---
